@@ -5,6 +5,7 @@ One thing, one should be aware of: Good code can be read by anyone not just ones
 ## Naming Conventions
 The first topic is about the naming of variables, classes and every other object in the code. Names should be as descriptive and meaningful as possible. Descriptive names help indentifying the function of the specific object. Even if names get quite long, naming the object after the functionality helps identifying the use.
 In case of Python one can refer to the [PEP-8 style guide](https://peps.python.org/pep-0008/).
+Another summary can be found on [Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming)), referring also to other languages and basic patterns.
 
 ## Comments
 As one probably already know, comments can help understanding the functionality of the code. But not every comment is a good comment. 
@@ -59,3 +60,4 @@ One of probably the most important rules is consistency. If you decide on a nami
 
 # Further Guides
 [Python Cheatsheet](https://github.com/gto76/python-cheatsheet?tab=readme-ov-file)
+If you are looking for some basic cheatcheets for specific Topics [this](https://cheatography.com/programming/) website perhaps helps.
