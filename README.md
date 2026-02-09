@@ -1,4 +1,4 @@
-# How to build high quality Software
+# How to Build High Quality Software
 The topic of how to build mantainable and readable software is a big one in on itself. To get started I want to highlight a few topics to get some inspiration. Coding standards are generally the same for all programming languages. However, each language does have some pecularities. 
 One thing, one should be aware of: Good code can be read by anyone not just oneself. In the end this should be the goal.
 
@@ -55,7 +55,7 @@ Another way to use unit tests is test-driven development. Before you write the m
 Unit tests also include very nicely in version control systems and code reviews. Before merging a new feature branch into the main branch one can execute all tests and have a quick look to see if any side effects occur. 
 Some more tips for unit tests can be found [here](https://leanylabs.com/blog/good-unit-tests/)
 
-## Stay consistent
+## Stay Consistent
 One of probably the most important rules is consistency. If you decide on a naming convention or a style, stay with it. Changing conventions only creates confusion if someone does not know the code. Even if you are the only one using the code, you should try to remain consistent. This way you can read the code even if it hasn't been touched for a long time and understand it more easily. After all, you will never know if the code you are writing will be important or even critical in the future, and you need to understand the core structures. Consistency is one of the easiest concepts to apply and helps immensely.
 
 # Further Guides
